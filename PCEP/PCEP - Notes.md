@@ -30,11 +30,11 @@ A part of your code that's used to cause and effect or evaluate a value
 
 Links:
 1. Fundamentals
-    [Print Function](/mypython/fundamentals/PCEP/print.md)
-    [Literals](/mypython/PCEP/fundamentals/literals.md)
-    [Operators](/mypython/PCEP/fundamentals/operators.md)
-    [Variables](/mypython/PCEP/fundamentals/variables.md)
-    [Input](https://bitbucket.org/bcloudagile/mypython/src/master/PCEP/fundamentals/input.md)
-    [String Methods](/mypython/PCEP/fundamentals/stringmethods.md)
-    [Comparison Operators](/mypython/PCEP/fundamentals/ComparisonOperators.md)
+    [Print Function](https://bitbucket.org/bcloudagile/mypython/src/master/PCEP/fundamentals/print.md) 
+    [Literals](https://bitbucket.org/bcloudagile/mypython/src/master/PCEP/fundamentals/literals.md) 
+    [Operators](https://bitbucket.org/bcloudagile/mypython/src/master/PCEP/fundamentals/operators.md) 
+    [Variables](https://bitbucket.org/bcloudagile/mypython/src/master/PCEP/fundamentals/variables.md) 
+    [Input](https://bitbucket.org/bcloudagile/mypython/src/master/PCEP/fundamentals/input.md) 
+    [String Methods](https://bitbucket.org/bcloudagile/mypython/src/master/PCEP/fundamentals/stringmethods.md) 
+    [Comparison Operators](https://bitbucket.org/bcloudagile/mypython/src/master/PCEP/fundamentals/ComparisonOperators.md) 
 2. Control Flow
