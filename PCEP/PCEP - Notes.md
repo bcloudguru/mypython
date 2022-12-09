@@ -34,7 +34,7 @@ Links:
     [Literals](/mypython/PCEP/fundamentals/literals.md)
     [Operators](/mypython/PCEP/fundamentals/operators.md)
     [Variables](/mypython/PCEP/fundamentals/variables.md)
-    [Input](/mypython/PCEP/fundamentals/input.md)
+    [Input](https://bitbucket.org/bcloudagile/mypython/src/master/PCEP/fundamentals/input.md)
     [String Methods](/mypython/PCEP/fundamentals/stringmethods.md)
     [Comparison Operators](/mypython/PCEP/fundamentals/ComparisonOperators.md)
 2. Control Flow

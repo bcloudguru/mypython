@@ -9,6 +9,7 @@ what is your favorite food!!Biryani
  Your favourite food is Biryani
  ```
 3. Value of the input function always returns **String**
+
 ```
 >>> age = input("how old are you? ")
 how old are you? 24
@@ -24,7 +25,7 @@ TypeError: unsupported operand type(s) for -: 'str' and 'int'
 4. Typecasting used to change the type of data
     1. int( )
     2. float( )
-    
+
 ```
 >>> print(age)
 24

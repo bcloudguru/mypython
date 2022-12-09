@@ -8,6 +8,7 @@ Literal Types:
     2. Floating point numbers
     3. Strings
     4. Booleans
+    
 ```
 >>> print(type(45.50))
 <class 'float'>
@@ -16,6 +17,7 @@ Literal Types:
 ```
 
 Booleans:
+
     1. true (1)
     2. false (0)
 
