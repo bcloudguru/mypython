@@ -1,7 +1,7 @@
 ## PCEP - Notes
 ### Introduction
 1. Easy and Intuitive
-2. free and oepn source
+2. free and Open source
 3. widely used by varity of tasks
 ### Python Internals
 1. Interpreter Language - Translates and executed program code lie by line rather than the whold program
@@ -29,4 +29,12 @@ A part of your code that's used to cause and effect or evaluate a value
 6. Resumes execution
 
 Links:
-[Print Function](/mypython/print.md)
+1. Fundamentals
+    [Print Function](/mypython/fundamentals/PCEP/print.md)
+    [Literals](/mypython/PCEP/fundamentals/literals.md)
+    [Operators](/mypython/PCEP/fundamentals/operators.md)
+    [Variables](/mypython/PCEP/fundamentals/variables.md)
+    [Input](/mypython/PCEP/fundamentals/input.md)
+    [String Methods](/mypython/PCEP/fundamentals/stringmethods.md)
+    [Comparison Operators](/mypython/PCEP/fundamentals/ComparisonOperators.md)
+2. Control Flow
