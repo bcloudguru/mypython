@@ -1,6 +1,7 @@
 ## Literals
 
 Literal Types:
+
     1. Integers
         * Octal numbers
         * Hexadecimal numbers

@@ -1,8 +1,8 @@
 ## String Methods
 
 <h5>Integers:</h5>
-To add numberic values use '+' 
-To multiply number values use '*'
+To add numberic values use '+'   
+To multiply number values use '*'  
 ```
 >>> print (2+2)
 4
@@ -11,8 +11,8 @@ To multiply number values use '*'
 ```
 <h5>Strings:</h5>
 
-use '+' to **Concatenate**
-use '*' to **Repeat Values**
+use '+' to **Concatenate**  
+use '*' to **Repeat Values**  
 
 ```
 >>> print ("Hello" +" "+ "World")

@@ -24,6 +24,7 @@ TypeError: unsupported operand type(s) for -: 'str' and 'int'
 4. Typecasting used to change the type of data
     1. int( )
     2. float( )
+    
 ```
 >>> print(age)
 24
