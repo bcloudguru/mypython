@@ -3,10 +3,12 @@
 Variables allows you to store values
 
 Variable naming:
+
 1. case sensitive
 2. cannot be python reserved keywords
 3. valid variable name (letters, digits and underscore)
 4. variables can be redeclared and can use shortcut operators 
+---
 ```
 >>> amount_of_apples=5
 >>> cost_of_apple=2

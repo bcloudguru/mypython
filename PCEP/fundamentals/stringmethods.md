@@ -10,8 +10,10 @@ To multiply number values use '*'
 12
 ```
 <h5>Strings:</h5>
+
 use '+' to **Concatenate**
 use '*' to **Repeat Values**
+
 ```
 >>> print ("Hello" +" "+ "World")
 Hello World

@@ -98,7 +98,7 @@ to subtract Values
 -12
 ```
 ---
-##Priority
+## Priority
 
 1. Unary
 2. exponential **
@@ -116,6 +116,7 @@ to subtract Values
 -29
 ```
 ---
-## Sub-Expression 
+## Sub-Expression
+
 > Subexpression takes higher priority
 ---
