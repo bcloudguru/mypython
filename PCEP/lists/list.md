@@ -68,6 +68,15 @@ IndexError: list index out of range
 >>> print(countries)
 ['UK', 'USA', 'Italy', 'India', 'canada']
 ```
+
+```
+>>> countries = ["USA", "Canada", "India"]
+>>> countries[0], countries[1] = countries[1], countries[0]
+>>> print(countries)
+['Canada', 'USA', 'India']
+# Check the output quotes
+>>> 
+```
 ---
 <h6>sort and reverse</h6>
 
