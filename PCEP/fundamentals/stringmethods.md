@@ -25,3 +25,19 @@ Hello WorldHello WorldHello World
 ```
 > [?] All string methods returns new values. They do not change the original string.
 
+---
+<h6>TypeError: object of type 'int' has no len()</h6>
+print(len(12345))
+
+---
+```
+>>> print(len("hello"))
+5
+>>> print("123"+"345")
+123345
+>>> print( 123 + 345)
+468
+>>> 
+
+```
+[?] read about f-string
